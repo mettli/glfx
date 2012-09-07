@@ -1,0 +1,5 @@
+#summary Directions
+
+= Manual =
+
+A manual which describes GLFX usage will soon be available in PDF format.
